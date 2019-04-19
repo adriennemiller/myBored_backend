@@ -2,7 +2,9 @@
 Find the front end for the project here: https://github.com/adriennemiller/myBored 
 
 
-Final project for Flatiron School, Module 2.
+Final project for Flatiron School, Module 3.
+
+This app allows you to create a digital bulletin board of images. Add new images with a Title, Category, Url, and Image Url. Users are able to log in with a username and have their images saved. Images can be dragged and dropped. Images can be double clicked to see their details, edit details, or delete.
 
 The backend for this app was created with Ruby on Rails.
 
